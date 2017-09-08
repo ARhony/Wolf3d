@@ -13,8 +13,11 @@ The second argument is the height and the second is the width
 
 # Controls
 W - Forward
+
 A - Rotate left
+
 S - Backward
+
 D - Rotate right
 
 # Next?
