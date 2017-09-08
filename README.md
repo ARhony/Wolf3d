@@ -1,3 +1,5 @@
+![example wolf3D](https://user-images.githubusercontent.com/24727426/30223819-a8031cd4-94cc-11e7-8d63-ac76210b6652.png)
+
 # Wolf3D
 With this project you learn what is the raycasting technique. Very basic stuff, walk in a 3D environment, depht and colors based on the orientation.
 
