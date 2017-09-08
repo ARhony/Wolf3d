@@ -1,5 +1,5 @@
 # Wolf3D
-With this project you learn what is the raycasting technique. Very basic stuff, walk in a 3D environment, depht and colors ased on the orientation.
+With this project you learn what is the raycasting technique. Very basic stuff, walk in a 3D environment, depht and colors based on the orientation.
 
 # How?
 git clone this project somewhere, run it and enjoy the maze.
