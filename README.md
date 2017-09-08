@@ -18,5 +18,6 @@ down arrow    -   Backward ||
 right arrow   -   Rotate right
 
 # Next?
-Better controls. For now, you can only move OR turn. This will be fixed soon.
+My wolf gets laggy the more you increase the map size. (error located: Draw map every frame)
+Better controls. (For now, you can only move OR turn)
 Ceiling + floors + textures on walls
