@@ -12,13 +12,10 @@ make
 The second argument is the height and the second is the width
 
 # Controls
-W - Forward
-
-A - Rotate left
-
-S - Backward
-
-D - Rotate right
+up arrow      -   Forward
+left arrow    -   Rotate left
+down arrow    -   Backward
+right arrow   -   Rotate right
 
 # Next?
 Better controls. For now, you can only move OR turn. This will be fixed soon.
