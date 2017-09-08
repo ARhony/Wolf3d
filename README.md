@@ -12,9 +12,9 @@ make
 The second argument is the height and the second is the width
 
 # Controls
-up arrow      -   Forward
-left arrow    -   Rotate left
-down arrow    -   Backward
+up arrow      -   Forward ||
+left arrow    -   Rotate left ||
+down arrow    -   Backward ||
 right arrow   -   Rotate right
 
 # Next?
